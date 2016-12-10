@@ -1,16 +1,16 @@
 ##Books
-*[Ethical Hacking and Penetration Testing Guide][1]
-*[The Hacker Playbook 2: Practical Guide To Penetration Testing][2]
+* [Ethical Hacking and Penetration Testing Guide][1]
+* [The Hacker Playbook 2: Practical Guide To Penetration Testing][2]
 
 ##Videos
-*[Complete Free Hacking Course: Go from Beginner to Expert Hacker Today!][3]
-*[Ethical Hacking Course: Cybrary][4]
-*[Computer System Security: MIT Opencourseware][5]
+* [Complete Free Hacking Course: Go from Beginner to Expert Hacker Today!][3]
+* [Ethical Hacking Course: Cybrary][4]
+* [Computer System Security: MIT Opencourseware][5]
 
 ##Blogs
-*[The Hacker News][6]
-*[Infosec Institute][7]
-*[Reddit group 1,75,000 hackers][8]
+* [The Hacker News][6]
+* [Infosec Institute][7]
+* [Reddit group 1,75,000 hackers][8]
 
 
 [1]: https://www.amazon.com/Ethical-Hacking-Penetration-Testing-Guide/dp/1482231611/
